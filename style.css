@@ -1,0 +1,33 @@
+#apps {
+    background-color: purple;
+}
+
+#myCarousel {
+    background-color: yellow;
+}
+
+#chatbot {
+    background-color: pink;
+}
+
+.line {
+    background-color: brown;
+    height: 4px;
+    width: 70px;
+    margin: 8px auto;
+}
+
+body {
+    text-align: center;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 45px;
+}
+
+.carousel-inner p {
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
